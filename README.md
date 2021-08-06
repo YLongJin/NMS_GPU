@@ -1,2 +1,3 @@
 # NMS_GPU
-implement NMS use cuda c
+ NMS use cuda c implement.
+ The C++ can use it with the .h file.
